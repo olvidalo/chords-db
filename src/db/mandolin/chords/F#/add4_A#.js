@@ -1,0 +1,34 @@
+export default {
+   "key": "F#",
+   "suffix": "add4/A#",
+   "positions": [
+      {
+         "frets": "3442",
+         "fingers": "2331"
+      },
+      {
+         "frets": "3446",
+         "fingers": "1224"
+      },
+      {
+         "frets": "x899",
+         "fingers": "0122"
+      },
+      {
+         "frets": "344x",
+         "fingers": "1220"
+      },
+      {
+         "frets": "3447",
+         "fingers": "1224"
+      },
+      {
+         "frets": "fbde",
+         "fingers": "4134"
+      },
+      {
+         "frets": "fbee",
+         "fingers": "4144"
+      }
+   ]
+};
