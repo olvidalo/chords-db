@@ -42,11 +42,13 @@ export interface Tunings {
 export const guitar: InstrumentChords;
 export const ukulele: InstrumentChords;
 export const mandolin: InstrumentChords;
+export const ukuleleDTuning: InstrumentChords;
 
 export interface IChordsDB {
     guitar: InstrumentChords;
     ukulele: InstrumentChords;
     mandolin: InstrumentChords;
+    "ukulele-d-tuning": InstrumentChords;
 }
 
 declare const ChordsDB: IChordsDB;
