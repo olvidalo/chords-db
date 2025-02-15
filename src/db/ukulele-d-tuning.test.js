@@ -1,6 +1,6 @@
 /* global it, describe, expect */
 
-import ukulele from './soprano-ukulele';
+import ukulele from './ukulele-d-tuning';
 import {
   strChord2array,
   chord2midi,
