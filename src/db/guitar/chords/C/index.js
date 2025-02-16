@@ -29,6 +29,7 @@ import maj7b5 from './maj7b5';
 import maj7sharp5 from './maj7#5';
 import maj7sus2 from './maj7sus2';
 import maj9 from './maj9';
+import maj9_B from "./maj9_B";
 import maj11 from './maj11';
 import maj13 from './maj13';
 import m6 from './m6';
@@ -102,6 +103,7 @@ export default [
   maj7sharp5,
   maj7sus2,
   maj9,
+  maj9_B,
   maj11,
   maj13,
   m6,
