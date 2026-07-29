@@ -13,6 +13,7 @@ import _5 from './5';
 import _6 from './6';
 import _69 from './69';
 import _7 from './7';
+import _7_Gsharp from './7_G#';
 import _7b5 from './7b5';
 import aug7 from './aug7';
 import _9 from './9';
@@ -85,6 +86,7 @@ export default [
   _6,
   _69,
   _7,
+  _7_Gsharp,
   _7b5,
   aug7,
   _9,
