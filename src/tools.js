@@ -36,6 +36,45 @@ const processPosition = (position, tuning) => {
   });
 };
 
+const noteIndex = {
+  C: 0,
+  'C#': 1,
+  Db: 1,
+  D: 2,
+  'D#': 3,
+  Eb: 3,
+  E: 4,
+  F: 5,
+  'F#': 6,
+  Gb: 6,
+  G: 7,
+  'G#': 8,
+  Ab: 8,
+  A: 9,
+  'A#': 10,
+  Bb: 10,
+  B: 11,
+};
+
+// The chords of an instrument tuned `semitones` higher than another one with the same string
+// layout: the same shapes, each naming the chord that many semitones higher. Positions are
+// copied, as generate() rewrites them in place.
+export const transposeChords = (chords, keys, semitones) =>
+  Object.assign(
+    ...keys.map((key) => {
+      const source = keys.find(
+        (k) => (noteIndex[k] + semitones + 12) % 12 === noteIndex[key]
+      );
+      return {
+        [key]: chords[source].map((chord) => ({
+          key,
+          suffix: chord.suffix,
+          positions: JSON.parse(JSON.stringify(chord.positions)),
+        })),
+      };
+    })
+  );
+
 export const unique = (arr) =>
   arr.filter((elem, pos, a) => a.indexOf(elem) === pos);
 
