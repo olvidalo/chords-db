@@ -24,10 +24,6 @@ import _7sharp9 from './7#9';
 import _7sharp9_F from './7#9_F';
 import _7sharp9_Fsharp from './7#9_F#';
 import _7sharp9_C from './7#9_C';
-import _7aug from './7aug';
-import _7aug_Fsharp from './7aug_F#';
-import _7aug_Asharp from './7aug_A#';
-import _7aug_C from './7aug_C';
 import _7b5_Fsharp from './7b5_F#';
 import _7b5_Gsharp from './7b5_G#';
 import _7b5_C from './7b5_C';
@@ -35,10 +31,6 @@ import _7b9 from './7b9';
 import _7b9_Dsharp from './7b9_D#';
 import _7b9_Fsharp from './7b9_F#';
 import _7b9_C from './7b9_C';
-import _7sus from './7sus';
-import _7sus_G from './7sus_G';
-import _7sus_A from './7sus_A';
-import _7sus_C from './7sus_C';
 import _7sus4 from './7sus4';
 import _7sus4_G from './7sus4_G';
 import _7sus4_A from './7sus4_A';
@@ -47,10 +39,6 @@ import _9 from './9';
 import _9_E from './9_E';
 import _9_Fsharp from './9_F#';
 import _9_C from './9_C';
-import _9sus from './9sus';
-import _9sus_E from './9sus_E';
-import _9sus_G from './9sus_G';
-import _9sus_C from './9sus_C';
 import _9sus4 from './9sus4';
 import _9sus4_E from './9sus4_E';
 import _9sus4_G from './9sus4_G';
@@ -108,9 +96,6 @@ import mmaj7 from './mmaj7';
 import mmaj7_F from './mmaj7_F';
 import mmaj7_A from './mmaj7_A';
 import mmaj7_Csharp from './mmaj7_C#';
-import sus from './sus';
-import sus_G from './sus_G';
-import sus_A from './sus_A';
 import sus2 from './sus2';
 import sus2_E from './sus2_E';
 import sus2_A from './sus2_A';
@@ -153,10 +138,6 @@ export default [
   _7sharp9_F,
   _7sharp9_Fsharp,
   _7sharp9_C,
-  _7aug,
-  _7aug_Fsharp,
-  _7aug_Asharp,
-  _7aug_C,
   _7b5_Fsharp,
   _7b5_Gsharp,
   _7b5_C,
@@ -164,10 +145,6 @@ export default [
   _7b9_Dsharp,
   _7b9_Fsharp,
   _7b9_C,
-  _7sus,
-  _7sus_G,
-  _7sus_A,
-  _7sus_C,
   _7sus4,
   _7sus4_G,
   _7sus4_A,
@@ -176,10 +153,6 @@ export default [
   _9_E,
   _9_Fsharp,
   _9_C,
-  _9sus,
-  _9sus_E,
-  _9sus_G,
-  _9sus_C,
   _9sus4,
   _9sus4_E,
   _9sus4_G,
@@ -237,9 +210,6 @@ export default [
   mmaj7_F,
   mmaj7_A,
   mmaj7_Csharp,
-  sus,
-  sus_G,
-  sus_A,
   sus2,
   sus2_E,
   sus2_A,

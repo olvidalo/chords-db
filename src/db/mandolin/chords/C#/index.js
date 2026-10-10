@@ -24,10 +24,6 @@ import _7sharp9 from './7#9';
 import _7sharp9_E from './7#9_E';
 import _7sharp9_F from './7#9_F';
 import _7sharp9_B from './7#9_B';
-import _7aug from './7aug';
-import _7aug_F from './7aug_F';
-import _7aug_A from './7aug_A';
-import _7aug_B from './7aug_B';
 import _7b5 from './7b5';
 import _7b5_F from './7b5_F';
 import _7b5_G from './7b5_G';
@@ -36,10 +32,6 @@ import _7b9 from './7b9';
 import _7b9_D from './7b9_D';
 import _7b9_F from './7b9_F';
 import _7b9_B from './7b9_B';
-import _7sus from './7sus';
-import _7sus_Fsharp from './7sus_F#';
-import _7sus_Gsharp from './7sus_G#';
-import _7sus_B from './7sus_B';
 import _7sus4 from './7sus4';
 import _7sus4_Fsharp from './7sus4_F#';
 import _7sus4_Gsharp from './7sus4_G#';
@@ -47,10 +39,6 @@ import _7sus4_B from './7sus4_B';
 import _9_Dsharp from './9_D#';
 import _9_F from './9_F';
 import _9_B from './9_B';
-import _9sus from './9sus';
-import _9sus_Dsharp from './9sus_D#';
-import _9sus_Fsharp from './9sus_F#';
-import _9sus_B from './9sus_B';
 import _9sus4 from './9sus4';
 import _9sus4_Dsharp from './9sus4_D#';
 import _9sus4_Fsharp from './9sus4_F#';
@@ -107,9 +95,6 @@ import mmaj7 from './mmaj7';
 import mmaj7_E from './mmaj7_E';
 import mmaj7_Gsharp from './mmaj7_G#';
 import mmaj7_C from './mmaj7_C';
-import sus from './sus';
-import sus_Fsharp from './sus_F#';
-import sus_Gsharp from './sus_G#';
 import sus2 from './sus2';
 import sus2_Dsharp from './sus2_D#';
 import sus2_Gsharp from './sus2_G#';
@@ -152,10 +137,6 @@ export default [
   _7sharp9_E,
   _7sharp9_F,
   _7sharp9_B,
-  _7aug,
-  _7aug_F,
-  _7aug_A,
-  _7aug_B,
   _7b5,
   _7b5_F,
   _7b5_G,
@@ -164,10 +145,6 @@ export default [
   _7b9_D,
   _7b9_F,
   _7b9_B,
-  _7sus,
-  _7sus_Fsharp,
-  _7sus_Gsharp,
-  _7sus_B,
   _7sus4,
   _7sus4_Fsharp,
   _7sus4_Gsharp,
@@ -175,10 +152,6 @@ export default [
   _9_Dsharp,
   _9_F,
   _9_B,
-  _9sus,
-  _9sus_Dsharp,
-  _9sus_Fsharp,
-  _9sus_B,
   _9sus4,
   _9sus4_Dsharp,
   _9sus4_Fsharp,
@@ -235,9 +208,6 @@ export default [
   mmaj7_E,
   mmaj7_Gsharp,
   mmaj7_C,
-  sus,
-  sus_Fsharp,
-  sus_Gsharp,
   sus2,
   sus2_Dsharp,
   sus2_Gsharp,

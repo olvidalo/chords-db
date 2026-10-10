@@ -22,5 +22,15 @@ export default {
       barres: 10,
       capo: true,
     },
+    {
+      frets: 'xx0785',
+      fingers: '000341',
+    },
+    {
+      frets: 'x55785',
+      fingers: '011341',
+      barres: 5,
+      capo: true,
+    },
   ],
 };

@@ -26,10 +26,6 @@ import _7sharp9 from './7#9';
 import _7sharp9_Gsharp from './7#9_G#';
 import _7sharp9_A from './7#9_A';
 import _7sharp9_Dsharp from './7#9_D#';
-import _7aug from './7aug';
-import _7aug_A from './7aug_A';
-import _7aug_Csharp from './7aug_C#';
-import _7aug_Dsharp from './7aug_D#';
 import _7b5 from './7b5';
 import _7b5_A from './7b5_A';
 import _7b5_B from './7b5_B';
@@ -38,10 +34,6 @@ import _7b9 from './7b9';
 import _7b9_Fsharp from './7b9_F#';
 import _7b9_A from './7b9_A';
 import _7b9_Dsharp from './7b9_D#';
-import _7sus from './7sus';
-import _7sus_Asharp from './7sus_A#';
-import _7sus_C from './7sus_C';
-import _7sus_Dsharp from './7sus_D#';
 import _7sus4 from './7sus4';
 import _7sus4_Asharp from './7sus4_A#';
 import _7sus4_C from './7sus4_C';
@@ -49,10 +41,6 @@ import _7sus4_Dsharp from './7sus4_D#';
 import _9_G from './9_G';
 import _9_A from './9_A';
 import _9_Dsharp from './9_D#';
-import _9sus from './9sus';
-import _9sus_G from './9sus_G';
-import _9sus_Asharp from './9sus_A#';
-import _9sus_Dsharp from './9sus_D#';
 import _9sus4 from './9sus4';
 import _9sus4_G from './9sus4_G';
 import _9sus4_Asharp from './9sus4_A#';
@@ -108,9 +96,6 @@ import mmaj7 from './mmaj7';
 import mmaj7_Gsharp from './mmaj7_G#';
 import mmaj7_C from './mmaj7_C';
 import mmaj7_E from './mmaj7_E';
-import sus from './sus';
-import sus_Asharp from './sus_A#';
-import sus_C from './sus_C';
 import sus2 from './sus2';
 import sus2_G from './sus2_G';
 import sus2_C from './sus2_C';
@@ -155,10 +140,6 @@ export default [
   _7sharp9_Gsharp,
   _7sharp9_A,
   _7sharp9_Dsharp,
-  _7aug,
-  _7aug_A,
-  _7aug_Csharp,
-  _7aug_Dsharp,
   _7b5,
   _7b5_A,
   _7b5_B,
@@ -167,10 +148,6 @@ export default [
   _7b9_Fsharp,
   _7b9_A,
   _7b9_Dsharp,
-  _7sus,
-  _7sus_Asharp,
-  _7sus_C,
-  _7sus_Dsharp,
   _7sus4,
   _7sus4_Asharp,
   _7sus4_C,
@@ -178,10 +155,6 @@ export default [
   _9_G,
   _9_A,
   _9_Dsharp,
-  _9sus,
-  _9sus_G,
-  _9sus_Asharp,
-  _9sus_Dsharp,
   _9sus4,
   _9sus4_G,
   _9sus4_Asharp,
@@ -237,9 +210,6 @@ export default [
   mmaj7_Gsharp,
   mmaj7_C,
   mmaj7_E,
-  sus,
-  sus_Asharp,
-  sus_C,
   sus2,
   sus2_G,
   sus2_C,

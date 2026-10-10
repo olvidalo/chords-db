@@ -24,10 +24,6 @@ import _7sharp9 from './7#9';
 import _7sharp9_A from './7#9_A';
 import _7sharp9_Asharp from './7#9_A#';
 import _7sharp9_E from './7#9_E';
-import _7aug from './7aug';
-import _7aug_Asharp from './7aug_A#';
-import _7aug_D from './7aug_D';
-import _7aug_E from './7aug_E';
 import _7b5_Asharp from './7b5_A#';
 import _7b5_C from './7b5_C';
 import _7b5_E from './7b5_E';
@@ -35,10 +31,6 @@ import _7b9 from './7b9';
 import _7b9_G from './7b9_G';
 import _7b9_Asharp from './7b9_A#';
 import _7b9_E from './7b9_E';
-import _7sus from './7sus';
-import _7sus_B from './7sus_B';
-import _7sus_Csharp from './7sus_C#';
-import _7sus_E from './7sus_E';
 import _7sus4 from './7sus4';
 import _7sus4_B from './7sus4_B';
 import _7sus4_Csharp from './7sus4_C#';
@@ -47,10 +39,6 @@ import _9 from './9';
 import _9_Gsharp from './9_G#';
 import _9_Asharp from './9_A#';
 import _9_E from './9_E';
-import _9sus from './9sus';
-import _9sus_Gsharp from './9sus_G#';
-import _9sus_B from './9sus_B';
-import _9sus_E from './9sus_E';
 import _9sus4 from './9sus4';
 import _9sus4_Gsharp from './9sus4_G#';
 import _9sus4_B from './9sus4_B';
@@ -107,9 +95,6 @@ import mmaj7 from './mmaj7';
 import mmaj7_A from './mmaj7_A';
 import mmaj7_Csharp from './mmaj7_C#';
 import mmaj7_F from './mmaj7_F';
-import sus from './sus';
-import sus_B from './sus_B';
-import sus_Csharp from './sus_C#';
 import sus2 from './sus2';
 import sus2_Gsharp from './sus2_G#';
 import sus2_Csharp from './sus2_C#';
@@ -152,10 +137,6 @@ export default [
   _7sharp9_A,
   _7sharp9_Asharp,
   _7sharp9_E,
-  _7aug,
-  _7aug_Asharp,
-  _7aug_D,
-  _7aug_E,
   _7b5_Asharp,
   _7b5_C,
   _7b5_E,
@@ -163,10 +144,6 @@ export default [
   _7b9_G,
   _7b9_Asharp,
   _7b9_E,
-  _7sus,
-  _7sus_B,
-  _7sus_Csharp,
-  _7sus_E,
   _7sus4,
   _7sus4_B,
   _7sus4_Csharp,
@@ -175,10 +152,6 @@ export default [
   _9_Gsharp,
   _9_Asharp,
   _9_E,
-  _9sus,
-  _9sus_Gsharp,
-  _9sus_B,
-  _9sus_E,
   _9sus4,
   _9sus4_Gsharp,
   _9sus4_B,
@@ -235,9 +208,6 @@ export default [
   mmaj7_A,
   mmaj7_Csharp,
   mmaj7_F,
-  sus,
-  sus_B,
-  sus_Csharp,
   sus2,
   sus2_Gsharp,
   sus2_Csharp,

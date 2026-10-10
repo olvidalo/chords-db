@@ -24,10 +24,6 @@ import _7sharp9 from './7#9';
 import _7sharp9_G from './7#9_G';
 import _7sharp9_Gsharp from './7#9_G#';
 import _7sharp9_D from './7#9_D';
-import _7aug from './7aug';
-import _7aug_Gsharp from './7aug_G#';
-import _7aug_C from './7aug_C';
-import _7aug_D from './7aug_D';
 import _7b5 from './7b5';
 import _7b5_Gsharp from './7b5_G#';
 import _7b5_Asharp from './7b5_A#';
@@ -36,10 +32,6 @@ import _7b9 from './7b9';
 import _7b9_F from './7b9_F';
 import _7b9_Gsharp from './7b9_G#';
 import _7b9_D from './7b9_D';
-import _7sus from './7sus';
-import _7sus_A from './7sus_A';
-import _7sus_B from './7sus_B';
-import _7sus_D from './7sus_D';
 import _7sus4 from './7sus4';
 import _7sus4_A from './7sus4_A';
 import _7sus4_B from './7sus4_B';
@@ -47,10 +39,6 @@ import _7sus4_D from './7sus4_D';
 import _9_Fsharp from './9_F#';
 import _9_Gsharp from './9_G#';
 import _9_D from './9_D';
-import _9sus from './9sus';
-import _9sus_Fsharp from './9sus_F#';
-import _9sus_A from './9sus_A';
-import _9sus_D from './9sus_D';
 import _9sus4 from './9sus4';
 import _9sus4_Fsharp from './9sus4_F#';
 import _9sus4_A from './9sus4_A';
@@ -107,9 +95,6 @@ import mmaj7 from './mmaj7';
 import mmaj7_G from './mmaj7_G';
 import mmaj7_B from './mmaj7_B';
 import mmaj7_Dsharp from './mmaj7_D#';
-import sus from './sus';
-import sus_A from './sus_A';
-import sus_B from './sus_B';
 import sus2 from './sus2';
 import sus2_Fsharp from './sus2_F#';
 import sus2_B from './sus2_B';
@@ -152,10 +137,6 @@ export default [
   _7sharp9_G,
   _7sharp9_Gsharp,
   _7sharp9_D,
-  _7aug,
-  _7aug_Gsharp,
-  _7aug_C,
-  _7aug_D,
   _7b5,
   _7b5_Gsharp,
   _7b5_Asharp,
@@ -164,10 +145,6 @@ export default [
   _7b9_F,
   _7b9_Gsharp,
   _7b9_D,
-  _7sus,
-  _7sus_A,
-  _7sus_B,
-  _7sus_D,
   _7sus4,
   _7sus4_A,
   _7sus4_B,
@@ -175,10 +152,6 @@ export default [
   _9_Fsharp,
   _9_Gsharp,
   _9_D,
-  _9sus,
-  _9sus_Fsharp,
-  _9sus_A,
-  _9sus_D,
   _9sus4,
   _9sus4_Fsharp,
   _9sus4_A,
@@ -235,9 +208,6 @@ export default [
   mmaj7_G,
   mmaj7_B,
   mmaj7_Dsharp,
-  sus,
-  sus_A,
-  sus_B,
   sus2,
   sus2_Fsharp,
   sus2_B,

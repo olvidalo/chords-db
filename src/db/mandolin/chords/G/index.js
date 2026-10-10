@@ -20,10 +20,6 @@ import _7sharp9 from './7#9';
 import _7sharp9_Asharp from './7#9_A#';
 import _7sharp9_B from './7#9_B';
 import _7sharp9_F from './7#9_F';
-import _7aug from './7aug';
-import _7aug_B from './7aug_B';
-import _7aug_Dsharp from './7aug_D#';
-import _7aug_F from './7aug_F';
 import _7b5 from './7b5';
 import _7b5_B from './7b5_B';
 import _7b5_Csharp from './7b5_C#';
@@ -32,10 +28,6 @@ import _7b9 from './7b9';
 import _7b9_Gsharp from './7b9_G#';
 import _7b9_B from './7b9_B';
 import _7b9_F from './7b9_F';
-import _7sus from './7sus';
-import _7sus_C from './7sus_C';
-import _7sus_D from './7sus_D';
-import _7sus_F from './7sus_F';
 import _7sus4 from './7sus4';
 import _7sus4_C from './7sus4_C';
 import _7sus4_D from './7sus4_D';
@@ -44,10 +36,6 @@ import _9 from './9';
 import _9_A from './9_A';
 import _9_B from './9_B';
 import _9_F from './9_F';
-import _9sus from './9sus';
-import _9sus_A from './9sus_A';
-import _9sus_C from './9sus_C';
-import _9sus_F from './9sus_F';
 import _9sus4 from './9sus4';
 import _9sus4_A from './9sus4_A';
 import _9sus4_C from './9sus4_C';
@@ -108,9 +96,6 @@ import mmaj7 from './mmaj7';
 import mmaj7_Asharp from './mmaj7_A#';
 import mmaj7_D from './mmaj7_D';
 import mmaj7_Fsharp from './mmaj7_F#';
-import sus from './sus';
-import sus_C from './sus_C';
-import sus_D from './sus_D';
 import sus2 from './sus2';
 import sus2_A from './sus2_A';
 import sus2_D from './sus2_D';
@@ -149,10 +134,6 @@ export default [
   _7sharp9_Asharp,
   _7sharp9_B,
   _7sharp9_F,
-  _7aug,
-  _7aug_B,
-  _7aug_Dsharp,
-  _7aug_F,
   _7b5,
   _7b5_B,
   _7b5_Csharp,
@@ -161,10 +142,6 @@ export default [
   _7b9_Gsharp,
   _7b9_B,
   _7b9_F,
-  _7sus,
-  _7sus_C,
-  _7sus_D,
-  _7sus_F,
   _7sus4,
   _7sus4_C,
   _7sus4_D,
@@ -173,10 +150,6 @@ export default [
   _9_A,
   _9_B,
   _9_F,
-  _9sus,
-  _9sus_A,
-  _9sus_C,
-  _9sus_F,
   _9sus4,
   _9sus4_A,
   _9sus4_C,
@@ -237,9 +210,6 @@ export default [
   mmaj7_Asharp,
   mmaj7_D,
   mmaj7_Fsharp,
-  sus,
-  sus_C,
-  sus_D,
   sus2,
   sus2_A,
   sus2_D,

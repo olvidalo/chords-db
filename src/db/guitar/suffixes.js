@@ -4,7 +4,6 @@ export default [
     'minor',
     'dim',
     'dim7',
-    'sus',
     'sus2',
     'sus4',
     'sus2sus4',

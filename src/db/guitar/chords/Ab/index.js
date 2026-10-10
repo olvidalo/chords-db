@@ -2,7 +2,6 @@ import major from './major';
 import minor from './minor';
 import dim from './dim';
 import dim7 from './dim7';
-import sus from './sus';
 import sus2 from './sus2';
 import sus4 from './sus4';
 import c7sus4 from './7sus4';
@@ -74,7 +73,6 @@ export default [
   minor,
   dim,
   dim7,
-  sus,
   sus2,
   sus4,
   c7sus4,
