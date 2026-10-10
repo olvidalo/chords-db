@@ -1,18 +1,20 @@
 export default {
-   "key": "A#",
-   "suffix": "9sus4/C",
-   "positions": [
-      {
-         "frets": "5666",
-         "fingers": "1222"
-      },
-      {
-         "frets": "5114",
-         "fingers": "4114"
-      },
-      {
-         "frets": "5864",
-         "fingers": "2431"
-      }
-   ]
+  key: 'A#',
+  suffix: '9sus4/C',
+  positions: [
+    {
+      frets: '5114',
+      fingers: '3112',
+      barres: 1,
+    },
+    {
+      frets: '5666',
+      fingers: '1222',
+      barres: 6,
+    },
+    {
+      frets: '5864',
+      fingers: '2431',
+    },
+  ],
 };

@@ -1,38 +1,39 @@
 export default {
-   "key": "A",
-   "suffix": "dim7",
-   "positions": [
-      {
-         "frets": "2132",
-         "fingers": "2132"
-      },
-      {
-         "frets": "2432",
-         "fingers": "1321"
-      },
-      {
-         "frets": "2435",
-         "fingers": "1324"
-      },
-      {
-         "frets": "x798",
-         "fingers": "0132"
-      },
-      {
-         "frets": "243x",
-         "fingers": "1320"
-      },
-      {
-         "frets": "ea0e",
-         "fingers": "4104"
-      },
-      {
-         "frets": "eace",
-         "fingers": "4134"
-      },
-      {
-         "frets": "xa0e",
-         "fingers": "0104"
-      }
-   ]
+  key: 'A',
+  suffix: 'dim7',
+  positions: [
+    {
+      frets: '2132',
+      fingers: '2143',
+    },
+    {
+      frets: '2432',
+      fingers: '1321',
+      barres: 2,
+    },
+    {
+      frets: '2435',
+      fingers: '1324',
+    },
+    {
+      frets: 'ea0e',
+      fingers: '2103',
+    },
+    {
+      frets: 'eace',
+      fingers: '3124',
+    },
+    {
+      frets: '243x',
+      fingers: '1320',
+    },
+    {
+      frets: 'xa0e',
+      fingers: '0104',
+    },
+    {
+      frets: 'x798',
+      fingers: '0132',
+    },
+  ],
 };

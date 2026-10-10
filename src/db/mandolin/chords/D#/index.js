@@ -4,8 +4,8 @@ import m7 from './m7';
 import _9 from './9';
 import _7sharp5 from './7#5';
 import _6 from './6';
-import _G from './_G';
-import _Asharp from './_A#';
+import __G from './_G';
+import __Asharp from './_A#';
 import _5 from './5';
 import _5_Asharp from './5_A#';
 import _6_G from './6_G';
@@ -34,10 +34,6 @@ import _7b9 from './7b9';
 import _7b9_E from './7b9_E';
 import _7b9_G from './7b9_G';
 import _7b9_Csharp from './7b9_C#';
-import _7dim5 from './7dim5';
-import _7dim5_G from './7dim5_G';
-import _7dim5_A from './7dim5_A';
-import _7dim5_Csharp from './7dim5_C#';
 import _7sus from './7sus';
 import _7sus_Gsharp from './7sus_G#';
 import _7sus_Asharp from './7sus_A#';
@@ -75,18 +71,10 @@ import aug_B from './aug_B';
 import dim from './dim';
 import dim_Fsharp from './dim_F#';
 import dim_A from './dim_A';
-import dim11 from './dim11';
-import dim11_F from './dim11_F';
-import dim11_G from './dim11_G';
-import dim11_Csharp from './dim11_C#';
 import dim7 from './dim7';
 import dim7_Fsharp from './dim7_F#';
 import dim7_A from './dim7_A';
 import dim7_C from './dim7_C';
-import dim9 from './dim9';
-import dim9_E from './dim9_E';
-import dim9_G from './dim9_G';
-import dim9_Csharp from './dim9_C#';
 import m_Fsharp from './m_F#';
 import m_Asharp from './m_A#';
 import m11 from './m11';
@@ -108,10 +96,6 @@ import m7b5 from './m7b5';
 import m7b5_Fsharp from './m7b5_F#';
 import m7b5_A from './m7b5_A';
 import m7b5_Csharp from './m7b5_C#';
-import m7dim5 from './m7dim5';
-import m7dim5_Fsharp from './m7dim5_F#';
-import m7dim5_A from './m7dim5_A';
-import m7dim5_Csharp from './m7dim5_C#';
 import maj7 from './maj7';
 import maj7_G from './maj7_G';
 import maj7_Asharp from './maj7_A#';
@@ -119,24 +103,6 @@ import maj7_D from './maj7_D';
 import maj9_F from './maj9_F';
 import maj9_G from './maj9_G';
 import maj9_D from './maj9_D';
-import mb5 from './mb5';
-import mb5_Fsharp from './mb5_F#';
-import mb5_A from './mb5_A';
-import mdim11 from './mdim11';
-import mdim11_F from './mdim11_F';
-import mdim11_Fsharp from './mdim11_F#';
-import mdim11_G from './mdim11_G';
-import mdim11_Asharp from './mdim11_A#';
-import mdim11_Csharp from './mdim11_C#';
-import mdim13 from './mdim13';
-import mdim13_Fsharp from './mdim13_F#';
-import mdim13_Gsharp from './mdim13_G#';
-import mdim13_B from './mdim13_B';
-import mdim9 from './mdim9';
-import mdim9_E from './mdim9_E';
-import mdim9_Fsharp from './mdim9_F#';
-import mdim9_Asharp from './mdim9_A#';
-import mdim9_Csharp from './mdim9_C#';
 import mmaj7 from './mmaj7';
 import mmaj7_Fsharp from './mmaj7_F#';
 import mmaj7_Asharp from './mmaj7_A#';
@@ -150,6 +116,14 @@ import sus2_Asharp from './sus2_A#';
 import sus4 from './sus4';
 import sus4_Gsharp from './sus4_G#';
 import sus4_Asharp from './sus4_A#';
+import m7b9 from './m7b9';
+import mb9 from './mb9';
+import mb9_Asharp from './mb9_A#';
+import m7b9_Csharp from './m7b9_C#';
+import mb9_E from './mb9_E';
+import m7b9_E from './m7b9_E';
+import mb9_Fsharp from './mb9_F#';
+import m7b9_Fsharp from './m7b9_F#';
 
 export default [
   major,
@@ -158,8 +132,8 @@ export default [
   _9,
   _7sharp5,
   _6,
-  _G,
-  _Asharp,
+  __G,
+  __Asharp,
   _5,
   _5_Asharp,
   _6_G,
@@ -188,10 +162,6 @@ export default [
   _7b9_E,
   _7b9_G,
   _7b9_Csharp,
-  _7dim5,
-  _7dim5_G,
-  _7dim5_A,
-  _7dim5_Csharp,
   _7sus,
   _7sus_Gsharp,
   _7sus_Asharp,
@@ -229,18 +199,10 @@ export default [
   dim,
   dim_Fsharp,
   dim_A,
-  dim11,
-  dim11_F,
-  dim11_G,
-  dim11_Csharp,
   dim7,
   dim7_Fsharp,
   dim7_A,
   dim7_C,
-  dim9,
-  dim9_E,
-  dim9_G,
-  dim9_Csharp,
   m_Fsharp,
   m_Asharp,
   m11,
@@ -262,10 +224,6 @@ export default [
   m7b5_Fsharp,
   m7b5_A,
   m7b5_Csharp,
-  m7dim5,
-  m7dim5_Fsharp,
-  m7dim5_A,
-  m7dim5_Csharp,
   maj7,
   maj7_G,
   maj7_Asharp,
@@ -273,24 +231,6 @@ export default [
   maj9_F,
   maj9_G,
   maj9_D,
-  mb5,
-  mb5_Fsharp,
-  mb5_A,
-  mdim11,
-  mdim11_F,
-  mdim11_Fsharp,
-  mdim11_G,
-  mdim11_Asharp,
-  mdim11_Csharp,
-  mdim13,
-  mdim13_Fsharp,
-  mdim13_Gsharp,
-  mdim13_B,
-  mdim9,
-  mdim9_E,
-  mdim9_Fsharp,
-  mdim9_Asharp,
-  mdim9_Csharp,
   mmaj7,
   mmaj7_Fsharp,
   mmaj7_Asharp,
@@ -304,4 +244,12 @@ export default [
   sus4,
   sus4_Gsharp,
   sus4_Asharp,
+  m7b9,
+  mb9,
+  mb9_Asharp,
+  m7b9_Csharp,
+  mb9_E,
+  m7b9_E,
+  mb9_Fsharp,
+  m7b9_Fsharp,
 ];

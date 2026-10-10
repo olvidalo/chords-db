@@ -1,10 +1,10 @@
 export default {
-   "key": "C",
-   "suffix": "m13/A",
-   "positions": [
-      {
-         "frets": "eadb",
-         "fingers": "4142"
-      }
-   ]
+  key: 'C',
+  suffix: 'm13/A',
+  positions: [
+    {
+      frets: 'eadb',
+      fingers: '4132',
+    },
+  ],
 };

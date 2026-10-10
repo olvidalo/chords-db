@@ -1,18 +1,18 @@
 export default {
-   "key": "B",
-   "suffix": "7b5/F",
-   "positions": [
-      {
-         "frets": "a90b",
-         "fingers": "2103"
-      },
-      {
-         "frets": "a767",
-         "fingers": "4212"
-      },
-      {
-         "frets": "a9cb",
-         "fingers": "2143"
-      }
-   ]
+  key: 'B',
+  suffix: '7b5/F',
+  positions: [
+    {
+      frets: 'a90b',
+      fingers: '2103',
+    },
+    {
+      frets: 'a767',
+      fingers: '4213',
+    },
+    {
+      frets: 'a9cb',
+      fingers: '2143',
+    },
+  ],
 };

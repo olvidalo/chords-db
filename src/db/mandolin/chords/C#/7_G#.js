@@ -1,10 +1,10 @@
 export default {
-   "key": "C#",
-   "suffix": "7/G#",
-   "positions": [
-      {
-         "frets": "dbed",
-         "fingers": "3143"
-      }
-   ]
+  key: 'C#',
+  suffix: '7/G#',
+  positions: [
+    {
+      frets: 'dbed',
+      fingers: '2143',
+    },
+  ],
 };

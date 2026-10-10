@@ -1,18 +1,20 @@
 export default {
-   "key": "D",
-   "suffix": "9sus4/E",
-   "positions": [
-      {
-         "frets": "9558",
-         "fingers": "4114"
-      },
-      {
-         "frets": "9aaa",
-         "fingers": "1222"
-      },
-      {
-         "frets": "9ca8",
-         "fingers": "2431"
-      }
-   ]
+  key: 'D',
+  suffix: '9sus4/E',
+  positions: [
+    {
+      frets: '9aaa',
+      fingers: '1222',
+      barres: 10,
+    },
+    {
+      frets: '9558',
+      fingers: '3112',
+      barres: 5,
+    },
+    {
+      frets: '9ca8',
+      fingers: '2431',
+    },
+  ],
 };

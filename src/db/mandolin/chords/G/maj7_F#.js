@@ -1,26 +1,27 @@
 export default {
-   "key": "G",
-   "suffix": "maj7/F#",
-   "positions": [
-      {
-         "frets": "x423",
-         "fingers": "0312"
-      },
-      {
-         "frets": "b9aa",
-         "fingers": "3122"
-      },
-      {
-         "frets": "b9a7",
-         "fingers": "4341"
-      },
-      {
-         "frets": "b9ax",
-         "fingers": "3120"
-      },
-      {
-         "frets": "bcef",
-         "fingers": "1244"
-      }
-   ]
+  key: 'G',
+  suffix: 'maj7/F#',
+  positions: [
+    {
+      frets: 'b9aa',
+      fingers: '3122',
+      barres: 10,
+    },
+    {
+      frets: 'bcef',
+      fingers: '1234',
+    },
+    {
+      frets: 'b9a7',
+      fingers: '4231',
+    },
+    {
+      frets: 'x423',
+      fingers: '0312',
+    },
+    {
+      frets: 'b9ax',
+      fingers: '3120',
+    },
+  ],
 };

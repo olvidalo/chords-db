@@ -1,42 +1,50 @@
 export default {
-   "key": "B",
-   "suffix": "7sus/E",
-   "positions": [
-      {
-         "frets": "x225",
-         "fingers": "0114"
-      },
-      {
-         "frets": "9777",
-         "fingers": "3111"
-      },
-      {
-         "frets": "9707",
-         "fingers": "3101"
-      },
-      {
-         "frets": "9907",
-         "fingers": "3301"
-      },
-      {
-         "frets": "9797",
-         "fingers": "3131"
-      },
-      {
-         "frets": "9905",
-         "fingers": "4401"
-      },
-      {
-         "frets": "9975",
-         "fingers": "4431"
-      },
-      {
-         "frets": "9995",
-         "fingers": "4441"
-      },
-      {
-         "frets": "9900",
-         "fingers": "1100"
-      }
-   ]
+  key: 'B',
+  suffix: '7sus/E',
+  positions: [
+    {
+      frets: '9995',
+      fingers: '4441',
+      barres: 9,
+    },
+    {
+      frets: '9797',
+      fingers: '2131',
+      barres: 7,
+    },
+    {
+      frets: '9900',
+      fingers: '1100',
+      barres: 9,
+    },
+    {
+      frets: '9777',
+      fingers: '3111',
+      barres: 7,
+    },
+    {
+      frets: '9907',
+      fingers: '3301',
+      barres: 9,
+    },
+    {
+      frets: '9905',
+      fingers: '4401',
+      barres: 9,
+    },
+    {
+      frets: '9707',
+      fingers: '3102',
+    },
+    {
+      frets: '9975',
+      fingers: '4431',
+      barres: 9,
+    },
+    {
+      frets: 'x225',
+      fingers: '0114',
+      barres: 2,
+    },
+  ],
 };

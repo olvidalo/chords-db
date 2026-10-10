@@ -1,22 +1,25 @@
 export default {
-   "key": "D",
-   "suffix": "m7b5/F",
-   "positions": [
-      {
-         "frets": "aa8a",
-         "fingers": "3313"
-      },
-      {
-         "frets": "aaba",
-         "fingers": "1121"
-      },
-      {
-         "frets": "acb8",
-         "fingers": "3441"
-      },
-      {
-         "frets": "ac88",
-         "fingers": "3411"
-      }
-   ]
+  key: 'D',
+  suffix: 'm7b5/F',
+  positions: [
+    {
+      frets: 'aaba',
+      fingers: '1121',
+      barres: 10,
+    },
+    {
+      frets: 'acb8',
+      fingers: '2431',
+    },
+    {
+      frets: 'aa8a',
+      fingers: '2213',
+      barres: 10,
+    },
+    {
+      frets: 'ac88',
+      fingers: '3411',
+      barres: 8,
+    },
+  ],
 };
