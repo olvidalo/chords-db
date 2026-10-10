@@ -30,6 +30,17 @@ We can define too the *fingers* information for easy reading of the chord.
 If the chord need to barre some string, we will define if in the *barre* field. If
 you want the barre be represented with capo, you can define the "capo" property too.
 
+## This fork
+
+Forked from [tombatossals/chords-db](https://github.com/tombatossals/chords-db) for the [Obsidian Chord Sheets](https://github.com/olvidalo/obsidian-chord-sheets) plugin. Changes and data sources:
+
+- **Added typings**
+- **Guitar and ukulele corrections** taken  from [tabsy-gr/chords-db](https://github.com/tabsy-gr/chords-db) (MIT) in October 2026: wrong and copied shapes fixed, mislabelled chords renamed, broken and duplicate voicings removed, implied barres declared, impossible fingerings fixed, prefer root in the bass.
+  Every change is explained in their [UPSTREAM-DIFF.md](https://github.com/tabsy-gr/chords-db/blob/master/UPSTREAM-DIFF.md).
+- **Guitar `7b13`** shapes from [chord.farm](https://chord.farm) (October 2024 – they never answered my request for permission. If you are chord.farm and would like this to be removed, please contact me).
+- **Ukulele in D tuning** (A D F# B, from [MostFrabjous](https://github.com/olvidalo/chords-db/pull/1), October 2024) and **baritone ukulele** (D G B E, from [eviv-java](https://github.com/olvidalo/chords-db/pull/2), December 2024) are the ukulele shapes transposed, now derived from the ukulele data at build time (`transposeChords` in `src/tools.js`).
+- **Mandolin** (G D A E): converted in March 2024 from `mando.py` of [starenka/chordata](https://github.com/starenka/chordata) (2014, no licence), a generated database. Cleaned up in October 2026: reordered the chord shapes so that easier shapes come first, remove duplicate and invalid suffixes, declared barres, and added missing shapes and fixes for impossible or awkward fingerings from  `ChordPro`.
+
 ## How to build/contribute
 
 This project is using *yarn* as package manager, so all the basic command related to 
