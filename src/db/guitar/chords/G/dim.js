@@ -12,7 +12,7 @@ export default {
     },
     {
       frets: 'xa8x89',
-      fingers: '012430',
+      fingers: '042013',
     },
     {
       frets: 'xabcbx',

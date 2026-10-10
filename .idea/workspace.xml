@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2134335-9301-4ed0-80d6-7fcfab164305" name="Changes" comment="Add baritone ukulele type export">
+      <change beforePath="$PROJECT_DIR$/lib/guitar.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/guitar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/instruments.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/instruments.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fork/eviv-java/master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOLjpz8s6FdJ6A&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1739652006210
+    },
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOLjpz8s6GLyjg&quot;,
+        &quot;number&quot;: 2
+      },
+      &quot;lastSeen&quot;: 1739657790276
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://olvidalo@github.com/olvidalo/chords-db&quot;,
+    &quot;accountId&quot;: &quot;a8d01bcd-f192-4ec4-9d2b-c4c1893cd179&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/types.d.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dasSpC5Mb5NWDteKbIAqNpdQxC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Jest.guitar.test.js.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.mandolin.test.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.test.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.test.mjs.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.test.test.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mts/Dev/chords-db&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;/Users/mts/Dev/chords-db/node_modules/jest&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitlab.plugin.GitLabSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/db" />
+      <recent name="$PROJECT_DIR$/src/db/mandolin/chords" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/node_modules/.bin/babel-node" nameIsGenerated="true" path-to-js-file="src/db/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2134335-9301-4ed0-80d6-7fcfab164305" name="Changes" comment="" />
+      <created>1710257525413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710257525413</updated>
+      <workItem from="1710257526615" duration="11259000" />
+      <workItem from="1710780161744" duration="598000" />
+      <workItem from="1710949927768" duration="6428000" />
+      <workItem from="1711019724255" duration="31064000" />
+      <workItem from="1727863442236" duration="9129000" />
+      <workItem from="1739650750600" duration="12575000" />
+      <workItem from="1739826372758" duration="599000" />
+      <workItem from="1739876552492" duration="597000" />
+      <workItem from="1739985807798" duration="92000" />
+    </task>
+    <task id="LOCAL-00001" summary="Revert package.json changes&#10;&#10;to deviate as little as possible from upstream">
+      <option name="closed" value="true" />
+      <created>1739656554666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739656554666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Some renaming for consistency">
+      <option name="closed" value="true" />
+      <created>1739657484238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739657484238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add baritone ukulele type export">
+      <option name="closed" value="true" />
+      <created>1739658136222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739658136222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="fork/eviv-java/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert package.json changes&#10;&#10;to deviate as little as possible from upstream to keep synching easy" />
+    <MESSAGE value="Revert package.json changes&#10;&#10;to deviate as little as possible from upstream, simplifying syncing" />
+    <MESSAGE value="Revert package.json changes&#10;&#10;to deviate as little as possible from upstream" />
+    <MESSAGE value="Some renaming for consistency" />
+    <MESSAGE value="Add baritone ukulele type export" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add baritone ukulele type export" />
+  </component>
+</project>

@@ -12,7 +12,7 @@ export default {
     },
     {
       frets: '76808x',
-      fingers: '213030',
+      fingers: '213040',
     },
     {
       frets: 'bedcbb',

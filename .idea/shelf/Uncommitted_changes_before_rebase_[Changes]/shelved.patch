@@ -1,0 +1,35 @@
+Index: src/db.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import { default as guitar } from './db/guitar';\nimport { default as ukulele } from './db/ukulele';\n\nexport default {\n  guitar,\n  ukulele,\n};\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/db.js b/src/db.js
+--- a/src/db.js	(revision be63d6061db23f210cd72e6e038a64fb4da87725)
++++ b/src/db.js	(date 1739652044431)
+@@ -1,7 +1,9 @@
+ import { default as guitar } from './db/guitar';
+ import { default as ukulele } from './db/ukulele';
++import { default as sopranoUkulele } from "./db/soprano-ukulele";
+ 
+ export default {
+   guitar,
+   ukulele,
++  sopranoUkulele
+ };
+Index: lib/instruments.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\"guitar\":{\"strings\":6,\"fretsOnChord\":4,\"name\":\"guitar\",\"numberOfChords\":3283},\"ukulele\":{\"strings\":4,\"fretsOnChord\":4,\"name\":\"ukulele\",\"numberOfChords\":2114}}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/instruments.json b/lib/instruments.json
+--- a/lib/instruments.json	(revision be63d6061db23f210cd72e6e038a64fb4da87725)
++++ b/lib/instruments.json	(date 1739652058700)
+@@ -1,1 +1,1 @@
+-{"guitar":{"strings":6,"fretsOnChord":4,"name":"guitar","numberOfChords":3283},"ukulele":{"strings":4,"fretsOnChord":4,"name":"ukulele","numberOfChords":2114}}
+\ No newline at end of file
++{"guitar":{"strings":6,"fretsOnChord":4,"name":"guitar","numberOfChords":3283},"ukulele":{"strings":4,"fretsOnChord":4,"name":"ukulele","numberOfChords":2114},"sopranoUkulele":{"strings":4,"fretsOnChord":4,"name":"soprano-ukulele","numberOfChords":2114}}
+\ No newline at end of file

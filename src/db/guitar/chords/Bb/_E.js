@@ -19,7 +19,7 @@ export default {
     {
       frets: '053366',
       fingers: '031144',
-      barres: 3,
+      barres: [3, 6],
     },
   ],
 };

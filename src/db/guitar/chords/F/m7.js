@@ -5,10 +5,12 @@ export default {
     {
       frets: '1x111x',
       fingers: '203330',
+      barres: 1,
     },
     {
       frets: 'dxdddx',
       fingers: '203330',
+      barres: 13,
     },
     {
       frets: '131111',

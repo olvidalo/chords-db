@@ -5,13 +5,13 @@ export default {
     {
       frets: '121144',
       fingers: '121144',
-      barres: 1,
+      barres: [1, 4],
       capo: true,
     },
     {
       frets: '121444',
       fingers: '121444',
-      barres: 1,
+      barres: [1, 4],
       capo: true,
     },
     {

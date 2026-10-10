@@ -9,13 +9,13 @@ export default {
     {
       frets: '7877aa',
       fingers: '121144',
-      barres: 7,
+      barres: [7, 10],
       capo: true,
     },
     {
       frets: '787aaa',
       fingers: '121444',
-      barres: 7,
+      barres: [7, 10],
       capo: true,
     },
     {

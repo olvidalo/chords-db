@@ -11,7 +11,7 @@ export default {
     {
       frets: '131144',
       fingers: '131144',
-      barres: 1,
+      barres: [1, 4],
       capo: true,
     },
     {

@@ -5,7 +5,6 @@ import dim7 from './dim7';
 import sus2 from './sus2';
 import sus4 from './sus4';
 import c7sus4 from './7sus4';
-import alt from './alt';
 import aug from './aug';
 import _6 from './6';
 import _69 from './69';
@@ -22,9 +21,6 @@ import _11 from './11';
 import _9sharp11 from './9#11';
 import _13 from './13';
 import _13b9 from './13b9';
-import _13b5b9 from './13b5b9';
-import b13b9 from './b13b9';
-import b13sharp9 from './b13#9';
 import maj7 from './maj7';
 import maj7b5 from './maj7b5';
 import maj7sharp5 from './maj7#5';
@@ -44,6 +40,9 @@ import mmaj9 from './mmaj9';
 import mmaj11 from './mmaj11';
 import add9 from './add9';
 import madd9 from './madd9';
+import Mb5 from './Mb5';
+import _7b9b13 from './7b9b13';
+import _7sharp9b13 from './7#9b13';
 
 export default [
   major,
@@ -53,7 +52,6 @@ export default [
   sus2,
   sus4,
   c7sus4,
-  alt,
   aug,
   _6,
   _69,
@@ -70,9 +68,6 @@ export default [
   _9sharp11,
   _13,
   _13b9,
-  _13b5b9,
-  b13b9,
-  b13sharp9,
   maj7,
   maj7b5,
   maj7sharp5,
@@ -92,4 +87,7 @@ export default [
   mmaj11,
   add9,
   madd9,
+  Mb5,
+  _7b9b13,
+  _7sharp9b13,
 ];

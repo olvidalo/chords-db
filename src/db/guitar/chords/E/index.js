@@ -7,7 +7,6 @@ import sus2 from './sus2';
 import sus4 from './sus4';
 import sus2sus4 from './sus2sus4';
 import c7sus4 from './7sus4';
-import alt from './alt';
 import aug from './aug';
 import _5 from './5';
 import _6 from './6';
@@ -43,7 +42,6 @@ import mmaj11 from './mmaj11';
 import add9 from './add9';
 import add11 from './add11';
 import madd9 from './madd9';
-import m9_D from './m9_D';
 import m9_G from './m9_G';
 
 import m_A from './m_A';
@@ -68,6 +66,13 @@ import _Eb from './_Eb';
 import _F from './_F';
 import _Fsharp from './_F#';
 import _G from './_G';
+import Mb5 from './Mb5';
+import _7sharp11 from './7#11';
+import __Gsharp from './_G#';
+import __Dsharp from './_D#';
+import m_Dsharp from './m_D#';
+import m_Gsharp from './m_G#';
+import _7sus2_D from './7sus2_D';
 
 export default [
   major,
@@ -79,7 +84,6 @@ export default [
   sus4,
   sus2sus4,
   c7sus4,
-  alt,
   aug,
   _5,
   _6,
@@ -115,7 +119,6 @@ export default [
   add9,
   add11,
   madd9,
-  m9_D,
   m9_G,
 
   m_A,
@@ -140,4 +143,11 @@ export default [
   _F,
   _Fsharp,
   _G,
+  Mb5,
+  _7sharp11,
+  __Gsharp,
+  __Dsharp,
+  m_Dsharp,
+  m_Gsharp,
+  _7sus2_D,
 ];
