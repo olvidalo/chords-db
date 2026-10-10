@@ -13,8 +13,8 @@ export default {
       fingers: '001243',
     },
     {
-      frets: '89aaax',
-      fingers: '123330',
+      frets: 'x9aaa8',
+      fingers: '023331',
       barres: 10,
     },
     {

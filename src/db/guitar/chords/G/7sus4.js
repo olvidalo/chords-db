@@ -21,8 +21,8 @@ export default {
       capo: true,
     },
     {
-      frets: 'aacada',
-      fingers: '113141',
+      frets: 'xacada',
+      fingers: '013141',
       barres: 10,
       capo: true,
     },

@@ -15,14 +15,12 @@ export default {
       capo: true,
     },
     {
-      frets: 'x66898',
-      fingers: '011243',
-      barres: 6,
-      capo: true,
+      frets: 'xx6898',
+      fingers: '001243',
     },
     {
-      frets: '8ba898',
-      fingers: '143121',
+      frets: 'xba898',
+      fingers: '043121',
       barres: 8,
       capo: true,
     },

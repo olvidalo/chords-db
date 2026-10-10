@@ -3,9 +3,9 @@ export default {
   suffix: '7sus4',
   positions: [
     {
-      frets: 'xx1122',
-      fingers: '001122',
-      barres: [1, 2],
+      frets: 'xxx122',
+      fingers: '000122',
+      barres: 2,
       capo: true,
     },
     {
@@ -21,8 +21,8 @@ export default {
       capo: true,
     },
     {
-      frets: 'bbdbeb',
-      fingers: '113141',
+      frets: 'xbdbeb',
+      fingers: '013141',
       barres: 11,
       capo: true,
     },

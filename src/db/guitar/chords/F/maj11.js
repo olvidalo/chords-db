@@ -15,8 +15,8 @@ export default {
       capo: true,
     },
     {
-      frets: '8889a8',
-      fingers: '111231',
+      frets: 'x889a8',
+      fingers: '011231',
       barres: 8,
       capo: true,
     },

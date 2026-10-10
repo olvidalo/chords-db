@@ -3,8 +3,9 @@ export default {
   suffix: 'aug',
   positions: [
     {
-      frets: 'xx5443',
-      fingers: '004231',
+      frets: 'x65443',
+      fingers: '043221',
+      barres: 4,
     },
     {
       frets: 'x6544x',

@@ -3,8 +3,9 @@ export default {
   suffix: 'dim7',
   positions: [
     {
-      frets: 'xx1212',
-      fingers: '001324',
+      frets: 'x31212',
+      fingers: '041312',
+      barres: 1,
     },
     {
       frets: 'x34242',

@@ -3,8 +3,8 @@ export default {
   suffix: '7',
   positions: [
     {
-      frets: 'xx1112',
-      fingers: '001112',
+      frets: 'xxx112',
+      fingers: '000112',
       barres: 1,
       capo: true,
     },
@@ -15,14 +15,12 @@ export default {
       capo: true,
     },
     {
-      frets: 'x66878',
-      fingers: '011324',
-      barres: 6,
-      capo: true,
+      frets: 'xx6878',
+      fingers: '001324',
     },
     {
-      frets: 'bbdbdb',
-      fingers: '113141',
+      frets: 'xbdbdb',
+      fingers: '013141',
       barres: 11,
       capo: true,
     },

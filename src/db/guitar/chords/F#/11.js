@@ -7,8 +7,8 @@ export default {
       fingers: '314200',
     },
     {
-      frets: '444456',
-      fingers: '111123',
+      frets: 'xx4456',
+      fingers: '001123',
       barres: 4,
       capo: true,
     },

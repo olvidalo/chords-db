@@ -3,8 +3,8 @@ export default {
   suffix: 'madd9',
   positions: [
     {
-      frets: 'x5442x',
-      fingers: '042310',
+      frets: 'x2042x',
+      fingers: '020310',
     },
     {
       frets: '75067x',

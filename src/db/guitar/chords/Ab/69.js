@@ -3,8 +3,8 @@ export default {
   suffix: '69',
   positions: [
     {
-      frets: 'x11111',
-      fingers: '011111',
+      frets: '411111',
+      fingers: '211111',
       barres: 1,
       capo: true,
     },

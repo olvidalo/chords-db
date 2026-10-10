@@ -3,9 +3,8 @@ export default {
   suffix: 'maj9',
   positions: [
     {
-      frets: '11021x',
-      fingers: '110320',
-      barres: 1,
+      frets: 'x1021x',
+      fingers: '010320',
     },
     {
       frets: '633335',

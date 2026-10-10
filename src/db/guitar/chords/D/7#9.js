@@ -7,12 +7,12 @@ export default {
       fingers: '021340',
     },
     {
-      frets: '000a78',
+      frets: 'xx0a78',
       fingers: '000412',
     },
     {
-      frets: 'x87778',
-      fingers: '021113',
+      frets: 'a87778',
+      fingers: '421113',
       barres: 7,
       capo: true,
     },

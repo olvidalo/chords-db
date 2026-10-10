@@ -23,14 +23,14 @@ export default {
       fingers: '001423',
     },
     {
-      frets: '99b9a9',
-      fingers: '113121',
+      frets: 'x9b9a9',
+      fingers: '013121',
       barres: 9,
       capo: true,
     },
     {
-      frets: 'xxbbac',
-      fingers: '002314',
+      frets: 'xxxbac',
+      fingers: '000314',
     },
   ],
 };

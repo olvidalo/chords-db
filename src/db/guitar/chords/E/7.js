@@ -11,14 +11,14 @@ export default {
       fingers: '032410',
     },
     {
-      frets: '779797',
-      fingers: '113141',
+      frets: 'x79797',
+      fingers: '013141',
       barres: 7,
       capo: true,
     },
     {
-      frets: 'xx999a',
-      fingers: '001112',
+      frets: 'xxx99a',
+      fingers: '000112',
       barres: 9,
       capo: true,
     },
